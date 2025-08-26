@@ -5,7 +5,7 @@ This dataset contains Afrogenic dance motion data extracted from the [Atunda vid
 Each subfolder under `data/` corresponds to a dance type, and within each folder there are two JSON files:
 
 -   `<dance type>_normalized.json` --- normalized landmark coordinates.
--   `<dance type>_world.json` --- landmark coordinates in world coordinates.
+-   `<dance type>_world.json` --- landmarks in world coordinates.
 
 ------------------------------------------------------------------------
 
