@@ -35,18 +35,18 @@ Each JSON file contains motion data for multiple sequences:
   "frames": [
     {
       "nose": {"x": 0.12, "y": -0.48, "z": -0.13, "visibility": 0.98},
-      "left_eye_inner": {...},
-      "left_eye": {...},
+      "left_eye_inner": {  },
+      "left_eye": {  },
       "...": "...",
-      "right_foot_index": {...}
+      "right_foot_index": {  }
     },
-    ...
+    
   ]
 }
 ```
 
--   **frames** → A list of frames in the sequence.
--   Each frame contains **33 landmarks**.
+-   The "frames" array contains the list of frames in the motion sequence of this file.
+-   Each frame contains 33 landmarks.
 -   For each landmark:
     -   `x`, `y`, `z`: 3D coordinates (normalized or world, depending on
         the file)
@@ -56,7 +56,7 @@ Each JSON file contains motion data for multiple sequences:
 
 ## Landmark Order
 
-The dataset follows the **MediaPipe Pose** landmark definitions.\
+The dataset follows the MediaPipe Pose landmark definitions.\
 The 33 landmarks are:
 
     ["nose", "left_eye_inner", "left_eye", "left_eye_outer", "right_eye_inner",
