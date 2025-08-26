@@ -106,4 +106,4 @@ The data provided under the [Atunda license](LICENSE).
 Please note that:
 - The license expires in 1 year from the time you download the data.
 - You must delete the dataset when your license expires.
-- You can renew the license and re-download the data, as some of the data may have changed. (Why? Because performers may request to remove their data, or contribute new data). 
+- You can renew the license and re-download the dataset, as some of the data may have changed. (Why? Because performers may request to remove their data, or contribute new data). 
