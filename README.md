@@ -13,11 +13,15 @@ Each subfolder under `data/` corresponds to a dance type, and within each folder
 
     data/
     ├── akwaaba/
-    │   ├── akwaaba_normalized.json
-    │   └── akwaaba_world.json
+    │   ├── akwaaba_normalized_1.json
+    │   ├── akwaaba_world_1.json
+        ├── akwaaba_normalized_2.json
+        ├── akwaaba_world_2.json
+        └── ...
     ├── alanta/
-    │   ├── alanta_normalized.json
-    │   └── alanta_world.json
+    │   ├── alanta_normalized_1.json
+    │   ├── alanta_world_2.json
+        └── ...
     └── ...
 
 ------------------------------------------------------------------------
