@@ -2,7 +2,7 @@
 This repository containes the dataset and source code used in our paper submitted to the ACM Journal of Computing and Cultural Heritage.
 
 This dataset contains Afrogenic dance motion data extracted from the [Atunda videos](https://www.atunda.live/) using MediaPipe.
-Each subfolder under `data/` corresponds to a dance move, and within each folder there are JSON files from several performances of this dance move:
+Each subfolder under `data/` corresponds to a dance move, and within each folder there are JSON files from several performances of this dance move in the following file name convension:
 
 -   `<dance type>_normalized_<performance ID>.json` --- normalized landmark coordinates.
 -   `<dance type>_world_<performance ID>.json` --- landmarks in world coordinates.
