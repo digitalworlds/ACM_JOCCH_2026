@@ -1,5 +1,5 @@
 # ATUNDA - Afrogenic dance moves
-The source code and the data from the Atunda project used in our paper submitted to the ACM Journal of Computing and Cultural Heritage.
+This repository containes the source code and the data from the Atunda project used in our paper submitted to the ACM Journal of Computing and Cultural Heritage.
 
 This dataset contains Afrogenic dance motion data extracted from the [Atunda videos](https://www.atunda.live/) using MediaPipe.
 Each subfolder under `data/` corresponds to a dance type, and within each folder there are two JSON files:
