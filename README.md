@@ -3,7 +3,7 @@ This repository contains the dataset and source code used in our paper submitted
 
 The dataset of Afrogenic dance moves has been systematically collected and curated for training machine learning models for dance move classification. The dataset includes nearly 400 move sequences covering 13 distinct dance moves from African and African Diaspora performative culture.
 
-This dataset contains Afrogenic dance motion data extracted from the [Atunda videos](https://www.atunda.live/) using the MediaPipe pose detection library.
+This dataset contains motion data sequences extracted from the [Atunda videos](https://www.atunda.live/) using the MediaPipe pose detection library.
 Each subfolder under `data/` corresponds to a dance move, and within each folder there are JSON files from several performances of this dance move in the following file name convension:
 
 -   `<dance type>_normalized_<performance ID>.json` --- normalized landmark coordinates.
