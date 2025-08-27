@@ -30,7 +30,7 @@ Each subfolder under `data/` corresponds to a dance move, and within each folder
 
 ## JSON Format
 
-Each JSON file contains motion data for multiple sequences:
+Each JSON file contains the motion data from a dance move sequence:
 
 ``` json
 {
