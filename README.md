@@ -1,5 +1,5 @@
 # ATUNDA - Afrogenic dance moves
-This repository containes the dataset and source code used in our paper submitted to the ACM Journal of Computing and Cultural Heritage.
+This repository contains the dataset and source code used in our paper submitted to the ACM Journal of Computing and Cultural Heritage.
 
 The dataset of Afrogenic dance moves has been systematically collected and curated for training machine learning models for dance move classification. The dataset includes nearly 400 move sequences covering 13 distinct dance moves from African and African Diaspora performative culture.
 
