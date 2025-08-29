@@ -106,6 +106,7 @@ for file in files:
 
 The data are provided under the [Atunda license](LICENSE). 
 By downloading the data you accept the terms and conditions of the license.
+
 Please note that:
 - Commercial use is strictly prohibited.
 - The license expires in 1 year from the time you download the data.
