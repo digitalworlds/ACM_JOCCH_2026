@@ -17,13 +17,13 @@ Each subfolder under `data/` corresponds to a dance move, and within each folder
     ├── akwaaba/
     │   ├── akwaaba_normalized_1.json
     │   ├── akwaaba_world_1.json
-        ├── akwaaba_normalized_2.json
-        ├── akwaaba_world_2.json
-        └── ...
+    │   ├── akwaaba_normalized_2.json
+    │   ├── akwaaba_world_2.json
+    │   └── ...
     ├── alanta/
     │   ├── alanta_normalized_1.json
     │   ├── alanta_world_2.json
-        └── ...
+    │   └── ...
     └── ...
 
 ------------------------------------------------------------------------
@@ -104,7 +104,8 @@ for file in files:
 
 ## License
 
-The data provided under the [Atunda license](LICENSE). 
+The data are provided under the [Atunda license](LICENSE). 
+By downloading the data you accept the terms and conditions of the license.
 Please note that:
 - Commercial use is strictly prohibited.
 - The license expires in 1 year from the time you download the data.
